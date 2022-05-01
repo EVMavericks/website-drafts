@@ -1,0 +1,124 @@
+.menu_wrapper {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  height: min-content;
+  font-size: clamp(0.7rem, 0.4vw, 1rem);
+}
+
+.choices {
+  width: 25em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.choices button {
+  color: #3e3e3e;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 1em;
+  padding: 1em;
+  margin: 0 0 0 auto;
+  border: 0.3em solid transparent;
+  cursor: pointer;
+  user-select: none;
+  width: min-content;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.choices_left {
+  text-align: right;
+}
+
+.choices_right {
+  text-align: left;
+}
+
+.choices_left button {
+  margin-right: 2em;
+}
+
+.choices_left button:first-child,
+.choices_left button:last-child {
+  margin-right: -2em;
+}
+
+.choices_right button {
+  margin-left: 2em;
+}
+
+.choices_right button:first-child,
+.choices_right button:last-child {
+  margin-left: -2em;
+}
+
+.choices button.hovered {
+  border: 0.3em solid #3e3e3e;
+}
+
+.choices button.active {
+  color: #00ff00;
+  border: 0.3em solid #00ff00;
+}
+
+.choices_left button.active {
+  animation: topLeft 0.25s;
+  transform: translate3d(-10%, -10%, 0);
+}
+
+.choices_right button.active {
+  animation: topRight 0.25s;
+  transform: translate3d(10%, -10%, 0);
+}
+
+.menu {
+  max-width: 16em;
+  height: fit-content;
+  align-self: center;
+}
+
+.menu path {
+  color: #044e04;
+  position: relative;
+  user-select: none;
+}
+
+.menu path.hovered,
+.menu path.active {
+  color: #122f12;
+  cursor: pointer;
+}
+
+.menu path.active {
+  color: #001800;
+}
+
+@keyframes topLeft {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-10%, -10%, 0);
+  }
+}
+
+@keyframes topRight {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(10%, -10%, 0);
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .menu_wrapper {
+    width: 100%;
+  }
+
+  .menu {
+    max-width: 3em;
+  }
+}

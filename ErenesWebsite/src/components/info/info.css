@@ -1,0 +1,50 @@
+.info {
+  width: 50%;
+  height: 90%;
+  background-color: #000000;
+  margin: 2rem;
+  padding: 2rem 0;
+  border: 0.3rem solid #1d1d1d;
+  display: flex;
+  flex-direction: column;
+  max-width: 75rem;
+  color: #f3f3f3;
+}
+
+.info .markdown {
+  font-family: 'Share Tech', roboto !important;
+  text-align: justify;
+  font-family: '';
+  margin: 0;
+  padding: 0 2rem;
+  height: 100%;
+  overflow: auto;
+}
+
+.title {
+  background-color: #0f0f0e;
+  /* background-image: url("./../../pattern.png");
+	background-size: 0.5rem; */
+  padding: 1rem;
+  margin: 0 2rem 3rem 2rem;
+}
+
+.title h2 {
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+@media only screen and (max-width: 950px) {
+  .info {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding-bottom: 2rem;
+    border: none;
+  }
+
+  .info .markdown {
+    overflow: unset;
+    height: unset;
+  }
+}
