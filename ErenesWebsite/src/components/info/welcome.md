@@ -1,11 +1,7 @@
-## Hello World!
+# EVMavericks
 
-Maecenas sollicitudin est sit amet ligula efficitur, vel rhoncus erat condimentum.
+![](https://images-ext-1.discordapp.net/external/RtKwHQOagzSsHlloxSQDYpwwl0Wtty08fa9xjFKfUVc/%3Fsize%3D2048/https/cdn.discordapp.com/splashes/963992696387694592/78f2887ce94a0ae268cb364e2dbf2d82.jpg?width=1191&height=670)
 
-Integer sit amet urna orci. In tincidunt eros a risus posuere placerat. Nam enim massa, gravida eu tellus at, pharetra condimentum dolor. Donec hendrerit, tellus dapibus commodo auctor, nunc diam elementum eros, non congue mauris ipsum sit amet mauris. Curabitur enim sapien, ornare in commodo non, fermentum id lacus. Maecenas ut leo sed sem sollicitudin blandit non id mauris. Nullam nec lectus ac turpis eleifend ultricies. Etiam hendrerit tristique nulla in pulvinar. In eget malesuada leo. Quisque ut ipsum fermentum nunc laoreet molestie. Duis vulputate neque at lectus euismod, sed hendrerit ipsum posuere.
+The Ethereum Virtual Machine powers the protocol. The Mavericks power the community.
 
-Integer sit amet urna orci. In tincidunt eros a risus posuere placerat. Nam enim massa, gravida eu tellus at, pharetra condimentum dolor. Donec hendrerit, tellus dapibus commodo auctor, nunc diam elementum eros, non congue mauris ipsum sit amet mauris. Curabitur enim sapien, ornare in commodo non, fermentum id lacus. Maecenas ut leo sed sem sollicitudin blandit non id mauris. Nullam nec lectus ac turpis eleifend ultricies. Etiam hendrerit tristique nulla in pulvinar. In eget malesuada leo. Quisque ut ipsum fermentum nunc laoreet molestie. Duis vulputate neque at lectus euismod, sed hendrerit ipsum posuere.
-
-Integer sit amet urna orci. In tincidunt eros a risus posuere placerat. Nam enim massa, gravida eu tellus at, pharetra condimentum dolor. Donec hendrerit, tellus dapibus commodo auctor, nunc diam elementum eros, non congue mauris ipsum sit amet mauris. Curabitur enim sapien, ornare in commodo non, fermentum id lacus. Maecenas ut leo sed sem sollicitudin blandit non id mauris. Nullam nec lectus ac turpis eleifend ultricies. Etiam hendrerit tristique nulla in pulvinar. In eget malesuada leo. Quisque ut ipsum fermentum nunc laoreet molestie. Duis vulputate neque at lectus euismod, sed hendrerit ipsum posuere.
-
-Integer sit amet urna orci. In tincidunt eros a risus posuere placerat. Nam enim massa, gravida eu tellus at, pharetra condimentum dolor. Donec hendrerit, tellus dapibus commodo auctor, nunc diam elementum eros, non congue mauris ipsum sit amet mauris. Curabitur enim sapien, ornare in commodo non, fermentum id lacus. Maecenas ut leo sed sem sollicitudin blandit non id mauris. Nullam nec lectus ac turpis eleifend ultricies. Etiam hendrerit tristique nulla in pulvinar. In eget malesuada leo. Quisque ut ipsum fermentum nunc laoreet molestie. Duis vulputate neque at lectus euismod, sed hendrerit ipsum posuere.
+A collective of thought leaders dedicated to advancing the decentralized Ethereum Web3 ecosystem. See mission statement to read more about the Pride, and meet us in our discord!

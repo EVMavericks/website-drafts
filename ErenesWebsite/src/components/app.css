@@ -29,7 +29,8 @@
 }
 
 .header_wrapper .logo {
-  width: 5em;
+  width: 8em;
+  border-radius: 50%;
 }
 
 .header_wrapper h1 {

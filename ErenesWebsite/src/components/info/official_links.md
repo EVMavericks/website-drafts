@@ -1,5 +1,14 @@
-## Hello World6!
+### LooksRare: 
+https://looksrare.org/collections/0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e
 
-Maecenas sollicitudin est sit amet ligula efficitur, vel rhoncus erat condimentum.
 
-Integer sit amet urna orci. In tincidunt eros a risus posuere placerat. Nam enim massa, gravida eu tellus at, pharetra condimentum dolor. Donec hendrerit, tellus dapibus commodo auctor, nunc diam elementum eros, non congue mauris ipsum sit amet mauris. Curabitur enim sapien, ornare in commodo non, fermentum id lacus. Maecenas ut leo sed sem sollicitudin blandit non id mauris. Nullam nec lectus ac turpis eleifend ultricies. Etiam hendrerit tristique nulla in pulvinar. In eget malesuada leo. Quisque ut ipsum fermentum nunc laoreet molestie. Duis vulputate neque at lectus euismod, sed hendrerit ipsum posuere.
+### OpenSea: 
+https://opensea.io/collection/evmavericks
+
+
+### Discord:
+https://discord.gg/EVMavericks 
+
+
+### Twitter:
+https://twitter.com/EVMavericks

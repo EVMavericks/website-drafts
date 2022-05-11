@@ -21,6 +21,20 @@
   overflow: auto;
 }
 
+.info .markdown img {
+  max-width: 100%;
+  max-height: 15rem;
+}
+
+.info .markdown a {
+  color: #66f;
+}
+
+.info .markdown a:visited {
+  /* color: #8462ce; */
+  color: #66f;
+}
+
 .title {
   background-color: #0f0f0e;
   /* background-image: url("./../../pattern.png");
