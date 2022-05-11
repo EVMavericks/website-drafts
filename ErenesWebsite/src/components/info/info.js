@@ -1,18 +1,18 @@
 import style from './info.css'
 import Markdown from 'preact-markdown'
 import welcome from './welcome.md'
-import about from './about.md'
+import origin_story from './origin_story.md'
 import mission_statement from './mission_statement.md'
-import roadmap from './roadmap.md'
-import community_team from './community_team.md'
+import lionpaper from './lionpaper.md'
+import about from './about.md'
 import official_links from './official_links.md'
 
 const markdownGroup = {
   welcome: welcome,
-  about: about,
+  origin_story: origin_story,
   mission_statement: mission_statement,
-  roadmap: roadmap,
-  community_team: community_team,
+  lionpaper: lionpaper,
+  about: about,
   official_links: official_links,
 }
 
